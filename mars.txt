@@ -1,6 +1,11 @@
-cold and dry
+some extras from Draculacold and dry
 line2
 changing line 3
 line four
 yer another line
+<<<<<<< HEAD
 dracula
+=======
+wolfie added line
+more from wolfie
+>>>>>>> 199ac88d0752269388038bfbea0d966a77f6f102
